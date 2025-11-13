@@ -1,1 +1,5 @@
-<Solution />
+<Solution>
+  <Project Path="Ukol1/Ukol1.csproj" />
+  <Project Path="Ukol2/Ukol2.csproj" />
+  <Project Path="Ukol3/Ukol3.csproj" />
+</Solution>
